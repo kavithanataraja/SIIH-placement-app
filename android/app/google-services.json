@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700988148297",
+    "project_id": "kcg-siih-app",
+    "storage_bucket": "kcg-siih-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700988148297:android:264d08f69223dd165ecd98",
+        "android_client_info": {
+          "package_name": "com.example.siih_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB53eUS9JvAaQ_Zc90rlQ9ohlpUCE1a6WU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
